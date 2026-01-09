@@ -3,7 +3,7 @@
 A high-performance, stealth-based data collection game built with **Next.js 15**, **HTML5 Canvas**, and **Framer Motion**.
  
 
- 
+  
 ##  Overview  
 Invisible Arena is a tactical survival game where you navigate a probe through a dark, anomaly-filled void. Players must use a sonar-ping mechanic to locate hidden data fragments while avoiding hostile red anomalies that track the player's signal.
 
