@@ -1,7 +1,7 @@
 #  Invisible Arena
 
 A high-performance, stealth-based data collection game built with **Next.js 15**, **HTML5 Canvas**, and **Framer Motion**.
-
+ 
 
 
 ##  Overview
